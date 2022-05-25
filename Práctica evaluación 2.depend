@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1494976679 source:e:\c++\práctica evaluación 2\main_red_social.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+	<ctime>
+	"twitter.hpp"
+	"usuario_twitter.hpp"
+
+1462141238 e:\c++\práctica evaluación 2\twitter.hpp
+	"usuario_twitter.hpp"
+	<string>
+
+1494976549 e:\c++\práctica evaluación 2\usuario_twitter.hpp
+	<string>
+	<fstream>
+	<tr1/array>
+	<array>
+
+1494978223 source:e:\c++\práctica evaluación 2\twitter.cpp
+	"twitter.hpp"
+	<iostream>
+	<string>
+	<cassert>
+	<fstream>
+
+1494977744 source:e:\c++\práctica evaluación 2\usuario_twitter.cpp
+	"usuario_twitter.hpp"
+	<iostream>
+	<fstream>
+	<string>
+	<cassert>
+	<cstdio>
+	<cstdlib>
+	<tr1/array>
+	<array>
+
